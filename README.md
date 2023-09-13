@@ -1,28 +1,33 @@
 # Catheter-survival
-# Project Summary
 
-## Team and Objectives
+## Project Summary
 
-Our team embarked on a project to estimate the lifespan and influential factors of a medical device known as a catheter. The team comprised a physician, a guiding professor with expertise in Information Systems, and myself, serving as a programmer and researcher.
+### Team and Objectives
 
-## Key Tasks Accomplished
+Our team embarked on a project to estimate the lifespan and influential factors of a medical device known as a catheter. The team consisted of a dedicated physician, an accomplished professor specializing in Information Systems, and myself, contributing as a programmer and researcher.
+
+### Key Accomplishments
 
 1. **Data Cleaning:**
-   - Initially, the data used for modeling underwent thorough cleansing and purification to enhance the accuracy of our analyses.
+   - We initiated the project by thoroughly cleansing and refining the dataset, a crucial step in enhancing the accuracy of our analyses.
 
 2. **Data Preprocessing:**
-   - Various stages of data preprocessing, including normalization and standardization, were implemented to mitigate the effects of data diversity and undesirable impacts.
+   - Multiple stages of data preprocessing, including normalization and standardization, were executed to mitigate the impact of data diversity and undesirable anomalies.
 
 3. **Filling Missing Values using KNN (K-Nearest Neighbors):**
-   - The KNN algorithm was employed to estimate and replace missing values, ensuring a more comprehensive dataset.
+   - Leveraging the KNN algorithm, we estimated and replaced missing values, ensuring a more robust and comprehensive dataset.
 
 4. **Model Selection (Deep Learning):**
-   - Briefly, deep learning methods were utilized for modeling to achieve higher precision.
+   - In brief, we employed deep learning techniques to achieve a higher level of precision in our modeling.
 
-## Results and Challenges
+### Results and Challenges
 
-While our team devoted considerable effort, the achieved model accuracy of 51% fell below expectations. The team attributes this decrease in accuracy to insufficient data and the presence of missing values across various categories. These factors limit the model's ability to provide more precise predictions.
+Despite our team's unwavering efforts, the achieved model accuracy of 51% fell below our anticipated expectations. We attribute this decrease in accuracy to insufficient data and the prevalence of missing values across various categories. These factors impose limitations on the model's capacity to provide more accurate predictions.
 
-## Project Overview
+### Project Overview
 
-In summary, our team endeavored to create a model for estimating the lifespan of catheters through data cleansing, preprocessing, missing value imputation, and the application of deep learning models. However, the model's accuracy was hindered by data limitations and missing values, indicating the need for further enhancements.
+In summary, our team worked diligently to develop a model for estimating the lifespan of catheters. This involved a meticulous process of data cleansing, preprocessing, missing value imputation, and the application of deep learning models. However, the model's accuracy was impeded by data constraints and the presence of missing values, highlighting the need for further refinements.
+
+---
+
+**Project Name:** Catheter-survival
